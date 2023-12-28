@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/static/css/main.79f671a8.css",
+    "main.js": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/static/js/main.d1a965a7.js",
+    "static/js/787.38f16daf.chunk.js": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/static/js/787.38f16daf.chunk.js",
+    "index.html": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/index.html",
+    "main.79f671a8.css.map": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/static/css/main.79f671a8.css.map",
+    "main.d1a965a7.js.map": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/static/js/main.d1a965a7.js.map",
+    "787.38f16daf.chunk.js.map": "/Oreas-ctivity-3-Increase-Decrease-Back-to-Zero/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f671a8.css",
+    "static/js/main.d1a965a7.js"
+  ]
+}
